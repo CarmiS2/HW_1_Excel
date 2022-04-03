@@ -6,7 +6,7 @@ The purpose of this analysis is to provide our client, Louise, with a visual sum
 
 ### Analysis of Outcomes Based on Launch Date
 When looking at the launch date of a campaign in relation to how successful the fundraiser was in meeting their goal. We can clearly see that the month of May and June resulted in a higher number of campaigns for theater projects that met or exceeded their goals. 
-*Please see graph below. *
+*See graph below*
 
 ![This is an image](Resources/Theater_Outcomes_vs_Launch.png)
 
