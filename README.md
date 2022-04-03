@@ -6,7 +6,7 @@ The purpose of this analysis is to provide our client, Louise, with a visual sum
 ### Analysis of Outcomes Based on Launch Date
 When looking at the launch date of a campaign in relation to how successful the fundraiser was in meeting their goal. We can clearly see that the month of May and June resulted in a higher number of campaigns for theater projects that met or exceeded their goals. 
 *Please see graph below. *
-[image]
+![This is an image](Resources/Theater_Outcomes_vs_Launch.png)
 ### Analysis of Outcomes Based on Goals
 Lastly, when looking at campaigns percentages of success in relation to the amount of funding goal, we can see campaigns under $4,999 have a higher rate of success of reaching their goal. With any plays under 1000 goal had a 76% of project successful and any project higher, but not more than 4,999 had 73% of successful projects. Campaigns with a goal of $5,000 or more saw a decline in the percentage of successful Kickstarter.  
 *See graph below*
