@@ -21,13 +21,17 @@ Difficulties that I could have encountered during this assignment could have bee
 
 ## Results
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
+- 
 Based upon the information we have gathered; the recommendation would be for our client Louise to plan for her current or future projects to be launched in the summer months. Due to the highest rates of successful campaigns in the category for theater are in May and June. Based on the finding we can also conclude that the winter months, specifically December, would not be the best time to launch a campaign due to the lower rate of success. 
 
 - What can you conclude about the Outcomes based on Goals?
+- 
 Looking at the data of campaign outcomes for plays based on goals we can concluded that campaigns that have a goal of $4,999 have a higher rate of either meeting or exceeded their goals. 
 
 - What are some limitations of this dataset?
+- 
 The limitations of the dataset are that is does not consider the possible outliners of the data that was collected. Extreme outliers can contribute to a skewed representation of that spread of data. 
 
 - What are some other possible tables and/or graphs that we could create?
+- 
 We could possibly create a box and whisker plot to compare the distribution of goals that were successful, failed and were canceled. This will allow us to visualize the outliers, median and where most of our data lies within the box. 
